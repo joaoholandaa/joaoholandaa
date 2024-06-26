@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-joaocmdt505@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaocmdt505@gmail.com)](mailto:joaocmdt505@gmail.com)
 
 ## My name's João Pedro
-( HTML | CSS | JavaScript | TypeScript | JQuery | Bootstrap | React JS | Angular ) 🚀
+( Kotlin | Android Studio | MVVM ) 🚀
 
 - 👩‍💻 Undergraduate Research @[FAPEPI](https://www.fapepi.pi.gov.br/)
 - 🎓 Software Engineer Student @[UNOPAR](https://www.unopar.com.br/)
