@@ -9,7 +9,7 @@
 
 - 👩‍💻 Undergraduate Research @[FAPEPI](https://www.fapepi.pi.gov.br/)
 - 🎓 Software Engineer Student @[UNOPAR](https://www.unopar.com.br/)
-- 🌐 Passionate about web development
+- 🤳 Passionate about mobile development
 - 💡 Love a good challenge
 
 <div align="left">
