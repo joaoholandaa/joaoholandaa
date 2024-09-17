@@ -11,9 +11,3 @@
 - 🎓 Software Engineer Student @[UNOPAR](https://www.unopar.com.br/)
 - 🔢 Passionate about Machine Learning, Image Processing and Math
 - 💡 Love a good challenge
-
-<div align="left">
-  
-<img align="left" alt="Code Typing" src="./android.png" height="300px" width="300px"/>
-  
- </div>
