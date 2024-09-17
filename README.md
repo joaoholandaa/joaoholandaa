@@ -5,9 +5,9 @@
 
 ## My name's João Pedro 👾
 ### I'm a Data Scientist 🧮
-( Python | ML | SQL ) 🚀
+( Python | ML | SQL ) 💻
 
-- 👩‍💻 Undergraduate Research @[INPE](https://www.gov.br/inpe/pt-br)
+- 👨🏻‍💻 Undergraduate Research @[INPE](https://www.gov.br/inpe/pt-br)
 - 🎓 Software Engineer Student @[UNOPAR](https://www.unopar.com.br/)
 - 🔢 Passionate about Machine Learning, Image Processing and Math
 - 💡 Love a good challenge
