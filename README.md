@@ -5,7 +5,7 @@
 
 ## My name's João Pedro 👾
 ### I'm a Data Analyst 🧮
-( Python | ML | SQL ) 💻
+( Power BI | SQL | Python ) 💻
 
 - 👨🏻‍💻 Undergraduate Research @[INPE](https://www.gov.br/inpe/pt-br)
 - 🎓 Software Engineer Student @[UNOPAR](https://www.unopar.com.br/)
