@@ -9,5 +9,5 @@
 
 - 👨🏻‍💻 Undergraduate Research @[INPE](https://www.gov.br/inpe/pt-br)
 - 🎓 Software Engineer Student @[UNOPAR](https://www.unopar.com.br/)
-- 🔢 Passionate about Machine Learning, Image Processing and Math
+- 🔢 Passionate about Data, Machine Learning and Math
 - 💡 Love a good challenge
