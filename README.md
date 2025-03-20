@@ -5,7 +5,7 @@
 
 ## My name's João Pedro 👾
 
-- 👨‍🏫 IT Professor @[Seduc-PI](https://www.seduc.pi.gov.br/)
+- 👨‍🏫 IT Professor @[SEDUC-PI](https://www.seduc.pi.gov.br/)
 - 🎓 Software Engineer @[UNOPAR](https://www.unopar.com.br/)
 - 🔢 Passionate about Educational technology, Data and Math
 - 💡 Love a good challenge
