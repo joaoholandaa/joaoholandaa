@@ -4,10 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-joaocmdt505@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaocmdt505@gmail.com)](mailto:joaocmdt505@gmail.com)
 
 ## My name's João Pedro 👾
-### I'm a Data Analyst 🧮
-( Power BI | SQL | Python ) 💻
 
-- 👨🏻‍💻 Undergraduate Research @[INPE](https://www.gov.br/inpe/pt-br)
-- 🎓 Software Engineer Student @[UNOPAR](https://www.unopar.com.br/)
-- 🔢 Passionate about Data, Machine Learning and Math
+- 👨‍🏫 IT Professor @[Seduc-PI](https://www.seduc.pi.gov.br/)
+- 🎓 Software Engineer @[UNOPAR](https://www.unopar.com.br/)
+- 🔢 Passionate about Educational technology, Data and Math
 - 💡 Love a good challenge
